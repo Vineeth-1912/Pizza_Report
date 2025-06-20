@@ -11,4 +11,3 @@ This repository contains a Power BI report analyzing pizza sales data in the dow
 *   **Advanced Analytics and Performance Metrics:** Applying advanced analytics to enhance performance metrics.
 *   **Interactive Elements and Dashboard Refinement:** Adding interactive elements to refine the dashboard experience.
 
-Explore the report to gain a comprehensive understanding of downtown pizza sales performance.
